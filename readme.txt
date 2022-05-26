@@ -8,3 +8,5 @@ To create a branch is so quick on Git.
 Try to do no ff merge again.
 111222333.
 add a line.
+insert 456.
+insert 789.
