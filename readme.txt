@@ -12,3 +12,4 @@ insert 456.
 insert 789.
 add a 123 on dev.
 trying no-ff again.
+Let's do some test one the stash function.
